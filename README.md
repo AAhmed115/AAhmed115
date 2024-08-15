@@ -29,7 +29,7 @@
 
  يرجى البحث عن برنامج Rufus وملف ويندوز ISO المناسب لجهازك من مصادر موثوقة على الإنترنت.<h1/></p>
     
-    <video src="C:\Users\Ahmed\Desktop\photo2\document_5899999941769564540.mp4" controls width="1300"height="600">
+    <video src="video.mp4.mp4" controls width="1300"height="600">
       
     
     
