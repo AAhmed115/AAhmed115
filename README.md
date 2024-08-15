@@ -29,12 +29,10 @@
 
  يرجى البحث عن برنامج Rufus وملف ويندوز ISO المناسب لجهازك من مصادر موثوقة على الإنترنت.<h1/></p>
     
-    <video src="video.mp4.mp4" controls width="1300"height="600">
+    
       
     
-    
-    </video>
-    <img src="9ee7dd9f48d8bc7b146b8d56cd69b092.jpg"  alt="photo" width="1300" height="600">  
+
   
   
  <p><h1 style="color:rgb(0, 0, 0)">* وسيلة تثبيت: يمكن أن تكون قرصًا مضغوطًا (CD) أو قرصًا فلاش (USB).
